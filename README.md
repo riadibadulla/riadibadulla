@@ -6,4 +6,4 @@ I'm
 * 📚 Currently doing a PhD in accleration of Deep Learning, and the compatability of different architectures with the AI accelerators.
 * 🎓 Holding an MSc Artificial Intelligence degree from the university of St Andrews.
 * 👨‍🏫 Working as a Graduate Teaching Assistant for moules like python progaramming, electronic cicruit design, computer vision and web development
-* 📝 My paper of architecture transformation for compatibility with the optical accelerators: <a href="https://arxiv.org/abs/2210.16914">FatNet: High Resolution Kernels for Classification Using Fully Convolutional Optical Neural Networks</a>
+* 📝 My paper of architecture transformation for compatibility with the optical accelerators: <a href="https://www.mdpi.com/2673-2688/4/2/18">FatNet: High Resolution Kernels for Classification Using Fully Convolutional Optical Neural Networks</a>
